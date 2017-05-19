@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-const Albums = ({ albums, selectAlbum }) => {
+const Albums = ({ albums }) => {
 
   return (
     <div>
